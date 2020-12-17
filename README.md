@@ -1,4 +1,4 @@
-# electron_shoppinglist
+# electron shoppinglist
 
 This is a very basic desktop app made with electron. 
 
